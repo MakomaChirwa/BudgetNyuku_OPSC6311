@@ -2,8 +2,7 @@ First step for set up !
 
 1. Clone the Repository
 bash
-git clone https://github.com//BudgetNyuku_OPSC6331
-cd BudgetNyuku
+git clone https://github.com/MakomaChirwa/BudgetNyuku_OPSC6311
 2. Open in Android Studio
 Launch Android Studio
 
